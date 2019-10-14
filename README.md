@@ -146,6 +146,8 @@ A curated list of resources for Learning with Noisy Labels
 
 [-] 2019 - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
 
+[-] 2019 - Pick-and-Learn: Automatic Quality Evaluation for Noisy-Labeled Image Segmentation. [[paper]](https://arxiv.org/pdf/1907.11835.pdf)
+
 
 
 
